@@ -8,11 +8,14 @@ This is a repository of what I learned in CS61A.
 
 notes的内容包括：
 - Lecture1_Function
+- Lecture2_COntainer
 
 ## demo
 课堂中的示例代码在demo文件夹中，demo内容包括：
 - Lecture2_Higher_Order_FUnction
 - Lecture6_Music
+- Lecture10_Container
+- Lecture12_Tree
 
 ## hog
 第一次大作业hog相关实现在此文件夹中
