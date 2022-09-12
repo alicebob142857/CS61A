@@ -9,6 +9,9 @@ This is a repository of what I learned in CS61A.
 notes的内容包括：
 - Lecture1_Function
 - Lecture2_COntainer
+- Lecture3_Tree
+- Lecture4_Mutable
+- Lecture5_Iterator
 
 ## demo
 课堂中的示例代码在demo文件夹中，demo内容包括：
@@ -16,11 +19,18 @@ notes的内容包括：
 - Lecture6_Music
 - Lecture10_Container
 - Lecture12_Tree
+- Lecture16_Mutable_Function
 
-## hog
-第一次大作业hog相关实现在此文件夹中。
-一个掷骰子获得点数的游戏。
+## projects
+大作业的实现代码
 
-## cats
-第二次大作业。
-一个测量打字速度，错别字自动更正，以及联机的小游戏。
+- hog 一个掷骰子获得点数的游戏。
+- cats 一个测量打字速度，错别字自动更正，以及联机的小游戏。
+
+## homework
+作业相关代码，homeworks内容包括:
+- hw04.py
+
+## labs
+实验课相关代码，labs的内容包括:
+- lab05
